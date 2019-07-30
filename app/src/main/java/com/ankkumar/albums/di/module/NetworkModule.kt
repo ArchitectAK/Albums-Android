@@ -1,4 +1,4 @@
-package com.ankkumar.albums.di
+package com.ankkumar.albums.di.module
 
 import android.content.Context
 import com.ankkumar.albums.helper.CheckNetwork

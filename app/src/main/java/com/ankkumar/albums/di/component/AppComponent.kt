@@ -1,6 +1,8 @@
-package com.ankkumar.albums.di
+package com.ankkumar.albums.di.component
 
 import com.ankkumar.albums.AlbumApplication
+import com.ankkumar.albums.di.module.AppModule
+import com.ankkumar.albums.di.builder.ActivityBindingModule
 import dagger.Component
 import dagger.android.AndroidInjector
 import dagger.android.support.AndroidSupportInjectionModule

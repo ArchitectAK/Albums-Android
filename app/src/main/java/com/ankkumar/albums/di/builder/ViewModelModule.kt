@@ -1,7 +1,9 @@
-package com.ankkumar.albums.di
+package com.ankkumar.albums.di.builder
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.ankkumar.albums.di.ViewModelFactory
+import com.ankkumar.albums.di.ViewModelKey
 import com.ankkumar.albums.ui.MainViewModel
 
 

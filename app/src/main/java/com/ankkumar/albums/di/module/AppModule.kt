@@ -1,7 +1,8 @@
-package com.ankkumar.albums.di
+package com.ankkumar.albums.di.module
 
 import android.content.Context
 import com.ankkumar.albums.AlbumApplication
+import com.ankkumar.albums.di.builder.ViewModelModule
 import com.ankkumar.albums.retrofit.AlbumService
 import com.ankkumar.albums.retrofit.Repository
 import com.ankkumar.albums.room.AppDatabase

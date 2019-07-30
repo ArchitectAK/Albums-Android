@@ -1,4 +1,4 @@
-package com.ankkumar.albums.di
+package com.ankkumar.albums.di.builder
 
 import com.ankkumar.albums.ui.MainActivity
 import com.ankkumar.albums.ui.SplashActivity
